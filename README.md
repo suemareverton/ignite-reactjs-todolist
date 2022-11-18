@@ -1,6 +1,6 @@
 # Rocketseat: Ignite
 
-About the bootcamp: [https://lp.rocketseat.com.br/ignite](https://lp.rocketseat.com.br/ignite)
+About Rocketseat Ignite Bootcamp: [https://lp.rocketseat.com.br/ignite](https://lp.rocketseat.com.br/ignite)
 
 ## Course: ReactJS
 
